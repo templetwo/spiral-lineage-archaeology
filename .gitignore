@@ -1,0 +1,6 @@
+# Keep raw personal exports out — privacy + size. See 02_ARCHAEOLOGY/EXPORTS_MANIFEST.md
+conversations.json
+chat.html
+*-export-*/
+**/openai_export/
+.DS_Store
